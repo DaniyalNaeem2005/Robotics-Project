@@ -1,8 +1,0 @@
-BLUE_KICK: size=49, center=(45,70), dist=4.1ft, blue=508, walks=3
-BLUE_KICK: size=49, center=(45,70), dist=4.1ft, blue=509, walks=3
-BLUE_KICK: size=49, center=(45,70), dist=4.1ft, blue=509, walks=3
-BLUE_KICK: size=49, center=(45,70), dist=4.1ft, blue=508, walks=3
-BLUE_KICK: size=49, center=(45,70), dist=4.1ft, blue=508, walks=3
-BLUE_KICK: size=49, center=(45,68), dist=4.1ft, blue=499, walks=3
-BLUE_KICK: size=49, center=(45,68), dist=4.1ft, blue=497, walks=3
-BLUE_KICK: size=49, center=(29,68), dist=4.1ft, blue=510, walks=3
